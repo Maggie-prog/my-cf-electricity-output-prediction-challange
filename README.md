@@ -1,2 +1,1 @@
-# my-cf-electricity-output-prediction-challange
-My cf electricity output prediction challange
+# Multivariate time series analysis and forecasting for CF
